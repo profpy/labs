@@ -4,5 +4,4 @@ lab50:
     - readme
     - terminal
   files:
-    - !exclude "*"
     - !include test.py

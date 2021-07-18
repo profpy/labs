@@ -5,5 +5,5 @@ lab50:
     - terminal
     - x
   files:
-    - !include test.py
+    - !include lab1/test.py
     - !exclude "*"

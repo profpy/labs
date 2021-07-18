@@ -1,8 +1,4 @@
 lab50:
   files:
+    - !exclude "*"
     - !include test.py
-  window:
-    - editor
-    - readme
-    - terminal
-    - x

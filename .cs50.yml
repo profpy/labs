@@ -2,4 +2,7 @@ lab50:
   files:
     - !exclude "*"
     - !include test.py
-   cmd: python
+   window:
+    - editor
+    - readme
+    - terminal

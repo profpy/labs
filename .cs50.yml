@@ -6,3 +6,4 @@ lab50:
     - x
   files:
     - !include test.py
+    - !exclude "*"

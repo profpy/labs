@@ -3,5 +3,6 @@ lab50:
     - editor
     - readme
     - terminal
+    - x
   files:
-    - !include test.py
+    - !include Lab1.java

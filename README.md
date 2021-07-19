@@ -1,3 +1,5 @@
-hello world!
+Turtle
 
-{% video https://www.youtube.com/watch?v=wy6EFoVy92A&t=892s %}
+javac TurtleDemo.java
+
+java TurtleDemo

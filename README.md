@@ -7,5 +7,4 @@ In this lab you will learn:
 ```bash
 $ javac TurtleDemo.java
 $ java TurtleDemo
-...
 ```

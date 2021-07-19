@@ -1,4 +1,4 @@
-Turtle
+Turtle in Java
 
 javac TurtleDemo.java
 

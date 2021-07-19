@@ -5,8 +5,7 @@ In this lab you will learn:
 - Move around in Turtle
 
 ```bash
-javac TurtleDemo.java
-
-java TurtleDemo
+$ javac TurtleDemo.java
+$ java TurtleDemo
 ...
 ```
